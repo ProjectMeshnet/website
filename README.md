@@ -1,4 +1,4 @@
-# ProjectMeshnet.org - the decentralized network
+# ProjectMeshnet.org
 
 ---
 
