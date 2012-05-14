@@ -28,7 +28,7 @@
 	   <div class="row">
         <div class="span7">
 		<img src="./images/lead.png" />
-     </div>
+     </div><br />
 	  <div class="span5">
 		<ul class="nav nav-pills">
   <li><a href="./">Home</a></li>
