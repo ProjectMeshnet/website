@@ -36,7 +36,7 @@
   </li>
   <li><a href="http://wiki.projectmeshnet.org/Getting_started">get started</a></li>
   <li><a href="http://hyperboria.net">network</a></li>
-  <li><a href="https://wiki.projectmeshnet.org/MeshLocal">meshlocal</a></li>
+  <li><a href="./meshlocal.php">meshlocal</a></li>
   <li><a href="http://forum.projectmeshnet.org">forum</a></li>
   <li><a href="https://wiki.projectmeshnet.org">wiki</a></li>
 </ul>
