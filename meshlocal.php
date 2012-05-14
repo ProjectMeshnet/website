@@ -49,7 +49,7 @@
      <div class="row pagination-centered">
 			<div class="span4">
 				<div class="well">
-					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal/Starting_a_Meshlocal">docs</a></p>
+					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal">docs</a></p>
 				</div>
 			</div>
 			<div class="span4">
