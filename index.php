@@ -35,7 +35,7 @@
 	  <div class="span4">
 		<ul class="nav nav-pills">
   <li class="active">
-    <a href="./">Home</a>
+    <a href="./">home</a>
   </li>
   <li><a href="http://wiki.projectmeshnet.org/Getting_started">get started</a></li>
   <li><a href="http://hyperboria.net">network</a></li>
