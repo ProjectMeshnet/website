@@ -29,10 +29,10 @@
 
     <div class="container">
 	   <div class="row">
-        <div class="span6">
+        <div class="span8">
 		<img src="./images/lead.png" />
      </div>
-	  <div class="span6">
+	  <div class="span4">
 		<ul class="nav nav-pills">
   <li class="active">
     <a href="./">Home</a>
