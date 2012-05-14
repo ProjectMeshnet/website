@@ -24,21 +24,19 @@
   </head>
 
   <body>
-
-   
-
-    <div class="container">
+ <div class="container">
 	   <div class="row">
-        <div class="span8">
-		<img src="./images/lead.png" />
+        <div class="span7">
+		<img src="./images/lead.png" /><br /><br />
      </div>
-	  <div class="span4">
+	  <div class="span5">
 		<ul class="nav nav-pills">
   <li class="active">
     <a href="./">home</a>
   </li>
   <li><a href="http://wiki.projectmeshnet.org/Getting_started">get started</a></li>
   <li><a href="http://hyperboria.net">network</a></li>
+  <li><a href="https://wiki.projectmeshnet.org/MeshLocal">meshlocal</a></li>
   <li><a href="http://forum.projectmeshnet.org">forum</a></li>
   <li><a href="https://wiki.projectmeshnet.org">wiki</a></li>
 </ul>
@@ -128,7 +126,9 @@
         </div>
       </div>
       <hr />
-     
+     <footer>
+	 <span style="color:#999;font-size:10px;"><a href="https://github.com/dansup/projectmeshnet">github</a> | <a href="http://reddit.com/r/hyperboria">/r/hyperboria</a> | <a href="http://reddit.com/r/darknetplan">/r/darknetplan</a></span>
+	 </footer>
       
 	</div> 
 			<script type="text/javascript">
