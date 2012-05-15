@@ -42,7 +42,7 @@
 </ul>
      </div></div><br><div class='container'>
 	  <div class="hero-unit">
-        <h3>our objective is to create a versatile, decentralized network built on secure protocols for routing traffic over private mesh or public internetworks independent of a central supporting infrastructure.</h3>
+        <h3>Our objective is to create a versatile, decentralized network built on secure protocols for routing traffic over private mesh or public internetworks independent of a central supporting infrastructure.</h3>
 
       </div> 
 <div class="row pagination-centered">
@@ -69,7 +69,7 @@
 			<div class="span4">
 				<div class="well">
 					<h1>Discuss</h1>
-					<br /><br />
+					<br />
 					<img src="./images/chat.png">
 					<br /><br />
 					<p>Chat with the developers of the project.</p> 
@@ -80,7 +80,7 @@
     <h1>Current Projects <small> Project Meshnet collaborates with several <a href="http://en.wikipedia.org/wiki/Free_and_open_source_software">FOSS</a> mesh related projects </small></h1>
   </div><div class='span8'>
           <h1 class='lead'>
-            <strong>CJDNS</strong> - a routing engine designed for security, scalability, speed and ease of use.
+            <strong>CJDNS</strong><em> a routing engine designed for security, scalability, speed and ease of use.</em>
         </div>
 		 <div class='span3 offset1'>
           <p>
@@ -88,7 +88,7 @@
              CJDNS Github</a>
           </p>
             <small>
-              official cjdns repo
+              Official cjdns repo.
             </small>
         </div>
       </div>
@@ -96,9 +96,9 @@
 	<div class='row'>
         <div class='span8'>
           <h1 class='lead'>
-            <strong>Hyperboria</strong> - a decentralized network of <a href="http://cjdns.info">cjdns</a> nodes established with the prinicples of freedom and security at its core.
+            <strong>Hyperboria</strong><em> a decentralized network of <a href="http://cjdns.info">cjdns</a> nodes established with the prinicples of freedom and security at its core.</em>
         </div>
-        <div class='span2'>
+        <div class='span2 pagination-centered'>
           <p>
               <strong>
                
@@ -107,11 +107,11 @@
           </p>
         
             <small>
-             Hyperboria-only sites/services
+             Hyperboria-only sites/services.
             </small>
          
         </div>
-		 <div class='span2'>
+		 <div class='span2 pagination-centered'>
           <p>
               <strong>
                
@@ -120,16 +120,12 @@
           </p>
         
             <small>
-              a live look at the network
+              A live look at the network.
             </small>
          
         </div>
       </div>
-      <hr />
-     <footer>
-	 <span style="color:#999;font-size:10px;"><a href="https://github.com/dansup/projectmeshnet">github</a> | <a href="http://reddit.com/r/hyperboria">/r/hyperboria</a> | <a href="http://reddit.com/r/darknetplan">/r/darknetplan</a></span>
-	 </footer>
-      
+      <hr /> 
 	</div> 
 			<script type="text/javascript">
 		var pkBaseURL = (("https:" == document.location.protocol) ? "https://projectmeshnet.org/ai/" : "http://projectmeshnet.org/ai/");

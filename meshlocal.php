@@ -27,8 +27,8 @@
 <div class="container">
 	   <div class="row">
         <div class="span7">
-		<img src="./images/lead.png" />
-     </div><br />
+		<img src="./images/lead.png" /><br /><br />
+     </div>
 	  <div class="span5">
 		<ul class="nav nav-pills">
   <li><a href="./">home</a></li>
@@ -42,31 +42,27 @@
 	 
 <div class="row pagination-centered">
 <div class="hero-unit">
-        <h1>meshlocal <small>local meshnets</small></h1><br />
-        <p>meshlocal provides resources and tools to anyone looking to establish a local meshnet in their region.</p>
+        <h1>Meshlocal</h1><br />
+        <p>Meshlocal provides resources and tools to anyone looking to establish a local meshnet in their region.</p>
       </div>
       <hr>
      <div class="row pagination-centered">
 			<div class="span4">
 				<div class="well">
-					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal">docs</a></p>
+					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal">Docs</a></p>
 				</div>
 			</div>
 			<div class="span4">
 			<div class="well">
-					<p><a class="btn btn-large btn-success" href="https://seattlemeshnet-nodeshot.appspot.com/">meshlocal map</a></p>
+					<p><a class="btn btn-large btn-success" href="https://seattlemeshnet-nodeshot.appspot.com/">Meshlocal map</a></p>
 				</div>
 			</div>
 			<div class="span4">
 			<div class="well">
-					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal/Associated_Meshlocals">list of meshlocal's</a></p>
+					<p><a class="btn btn-large btn-info" href="https://wiki.projectmeshnet.org/MeshLocal/Associated_Meshlocals">List of Meshlocals</a></p>
 				</div>
 			</div></div>
 			<hr>
-      <footer>
-	 <span style="color:#999;font-size:10px;"><a href="https://github.com/dansup/projectmeshnet">github</a> | <a href="http://reddit.com/r/hyperboria">/r/hyperboria</a> | <a href="http://reddit.com/r/darknetplan">/r/darknetplan</a></span>
-	 </footer>
-      
 	</div> 
 	<script type="text/javascript">
 		var pkBaseURL = (("https:" == document.location.protocol) ? "https://projectmeshnet.org/ai/" : "http://projectmeshnet.org/ai/");
