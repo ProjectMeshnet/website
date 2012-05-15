@@ -80,7 +80,7 @@
     <h1>Current Projects <small> Project Meshnet collaborates with several <a href="http://en.wikipedia.org/wiki/Free_and_open_source_software">FOSS</a> mesh related projects </small></h1>
   </div><div class='span8'>
           <h1 class='lead'>
-            <strong>CJDNS</strong><em> a routing engine designed for security, scalability, speed and ease of use.</em>
+            <strong>CJDNS</strong> &mdash; a routing engine designed for security, scalability, speed and ease of use.
         </div>
 		 <div class='span3 offset1'>
           <p>
@@ -96,7 +96,7 @@
 	<div class='row'>
         <div class='span8'>
           <h1 class='lead'>
-            <strong>Hyperboria</strong><em> a decentralized network of <a href="http://cjdns.info">cjdns</a> nodes established with the prinicples of freedom and security at its core.</em>
+            <strong>Hyperboria</strong> &mdash; a decentralized network of <a href="http://cjdns.info">cjdns</a> nodes established with the prinicples of freedom and security at its core.
         </div>
         <div class='span2 pagination-centered'>
           <p>
@@ -125,7 +125,7 @@
          
         </div>
       </div>
-      <hr /> 
+      <hr> 
 	</div> 
 			<script type="text/javascript">
 		var pkBaseURL = (("https:" == document.location.protocol) ? "https://projectmeshnet.org/ai/" : "http://projectmeshnet.org/ai/");
