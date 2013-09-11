@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Maven Pro Regular'), local('MavenProRegular'), url(https://projectmeshnet.org/assets/fonts/Maven-Pro-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(https://projectmeshnet.org/assets/fonts/Montserrat-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Pro Boldies';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source-Pro-Bold'), url(https://projectmeshnet.org/assets/fonts/Source-Pro-Bold.woff) format('woff');
+}

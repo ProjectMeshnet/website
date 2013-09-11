@@ -1,0 +1,169 @@
+<?php include '../inc/_h3.php'; ?>
+<?php include '../inc/_nb.php'; ?>
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav">
+         <li><a href="https://projectmeshnet.org/staging/">Home</a></li>
+          <li><a href="https://projectmeshnet.wordpress.com">Blog</a></li>
+          <li class="active"><a href="https://projectmeshnet.org/staging/docs/">Docs</a></li>
+          <li><a href="https://projectmeshnet.org/staging/donate.php">Donate</a></li>
+          <li><a href="https://projectmeshnet.org/staging/join.php">Join</a></li>
+          <li><a href="http://map.projectmeshnet.org">Map</a></li>
+          <li><a href="https://wiki.projectmeshnet.org/">Wiki</a></li>
+    </ul>
+<?php include '../inc/_nr.php'; ?>
+  </div>
+</nav>
+          <div class="jumbotron">
+             <div class="container">
+                <h2 class="featurette-heading">Docs</h2>
+                <p class="lead">Documentation and Guides for cjdns.</p>
+                <p class="text-danger">In developement, this page is for staging purposes only and will change!</p>
+             </div>
+          </div>
+      <div class="container">
+
+   <div class="body-content">
+       <div class="row marketing">
+        <div class="col-lg-2"></div>
+         <div class="col-lg-8 well-mesh">
+              <p class="text-docs">Our docs section contains a few community contributed documentation and guides that have been vetted as safe/secure by the developers of Project Meshnet and cjdns.</p>
+          </div>
+        </div>
+       <div class="row marketing">
+      <div class="col-lg-2"></div>
+      <div class="col-lg-8">
+        <div class="page-header">
+          <h1>Installation Guides</h1>
+        </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on Debian</a></p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">Debian Guide</a></p>
+          </div>
+        </div>
+      </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on Ubuntu</a></p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">Ubuntu Guide</a></p>
+          </div>
+        </div>
+      </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on Arch Linux</a></p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">ArchLinux Guide</a></p>
+          </div>
+        </div>
+      </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on Gentoo</a></p>
+           <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">Gentoo Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on OpenWRT</a></p>
+            <p class="well well-mesh"> <a class="btn btn-mesh btn-block" href="#">OpenWRT Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">Install cjdns on Android</a></p>
+            <p class="well well-mesh"> <a class="btn btn-mesh btn-block" href="#">Android Guide</a></p>
+          </div>
+        </div>        
+       </div>
+     </div>
+   </div>
+    <div class="row marketing">
+      <div class="col-lg-2"></div>
+      <div class="col-lg-8">
+        <div class="page-header">
+          <h1>Deployment Guides</h1>
+        </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="text-right"><span class="label label-warning">vps/dedi</span></p>
+            <p class="lead-alt">Deploying on a VPS/Dedicated server </p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">VPS/Dedicated Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="text-right"><span class="label label-primary">meshlocal</span></p>
+            <p class="lead-alt">Deploying on a residential server/router </p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">Homebrew Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="text-right"><span class="label label-primary">meshlocal</span></p>
+            <p class="lead-alt">Deploying as a dedicated relay</p>
+            <p class="text-muted">A dedicated relay is a stand-alone wireless AP or backhaul link. (Example: dead-drops w/ wifi)</p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">MeshRelay Guide</a></p>
+          </div>
+        </div>        
+       </div>
+
+      </div> 
+     </div>
+
+         <div class="row marketing">
+      <div class="col-lg-2"></div>
+      <div class="col-lg-8">
+        <div class="page-header">
+          <h1>Application Guides</h1>
+        </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">cjdns + Apache HTTPd Configuration w/ DNS</p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">Apache Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">cjdns + Nginx Configuration w/ DNS</p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">NGiNX Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">cjdns + Postfix (stmp server)</p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">STMP Guide</a></p>
+          </div>
+        </div>        
+       </div>
+       <div class="col-xs-6 col-sm-6 col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <p class="lead-alt">cjdns + NodeAtlas</p>
+            <p class="well well-mesh"><a class="btn btn-mesh btn-block" href="#">NodeAtlas Guide</a></p>
+          </div>
+        </div>        
+       </div>
+
+
+      </div> 
+     </div>
+</div>
+<? include '../inc/_f.php'; ?> 
