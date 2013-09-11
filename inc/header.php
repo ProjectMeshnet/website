@@ -16,6 +16,5 @@
     <link href="https://projectmeshnet.org/assets/css/bootstrap.css" rel="stylesheet">
     <link href="https://projectmeshnet.org/assets/css/custom.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
-    <?php /* TODO: Make fonts local before deploying + Remove developer cache bypass, they will slow down cdn in production ! */ ;?>
   </head>
   <body>
