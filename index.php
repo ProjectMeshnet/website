@@ -53,7 +53,7 @@
            <div class="container">
             <h2 class="featurette-heading">Simple setup</h2>
             <p class="lead">Install the cjdns routing software on a supported* device in under 15 minutes!
-            <br/><small style="margin-left:540px;font-size:10px;">* = Linux, Mac, OpenWRT, Android (rooted) </small></p>
+            <br/><small style="margin-left:540px;font-size:10px;">* = Linux, Mac, OpenWRT</small></p>
             <p><a href="https://wiki.projectmeshnet.org/Getting_started" class="btn btn-lg btn-default">Getting Started Guide</a></p>          
           </div>
            <div class="featurette-divider"></div>
@@ -64,7 +64,7 @@
            <div class="container">
             <h2 class="featurette-heading">Simple setup</h2>
             <p class="lead">Install the cjdns routing software on a supported* device in under 15 minutes!
-            <br/><small style="font-size:10px;">* = Linux, Mac, OpenWRT, Android (rooted)</small></p>
+            <br/><small style="font-size:10px;">* = Linux, Mac, OpenWRT</small></p>
             <p><a href="https://wiki.projectmeshnet.org/Getting_started" class="btn btn-lg btn-default">Getting Started Guide</a></p>  
           </div>
 
